@@ -1,0 +1,222 @@
+<vehicles>
+    <flow id="E1" begin="0" end="600" from="edge-1:0/0:0" number="100"/>
+    <flow id="E2" begin="0" end="600" from="edge-1:1/0:1" number="100"/>
+    <flow id="E3" begin="0" end="600" from="edge-1:2/0:2" number="100"/>
+    <flow id="E4" begin="0" end="600" from="edge-1:3/0:3" number="100"/>
+
+    <flow id="W1" begin="0" end="600" from="edge4:0/3:0" number="100"/>
+    <flow id="W2" begin="0" end="600" from="edge4:1/3:1" number="100"/>
+    <flow id="W3" begin="0" end="600" from="edge4:2/3:2" number="100"/>
+    <flow id="W4" begin="0" end="600" from="edge4:3/3:3" number="100"/>
+
+    <flow id="S1" begin="0" end="600" from="edge0:-1/0:0" number="50"/>
+    <flow id="S2" begin="0" end="600" from="edge1:-1/1:0" number="50"/>
+    <flow id="S3" begin="0" end="600" from="edge2:-1/2:0" number="50"/>
+    <flow id="S4" begin="0" end="600" from="edge3:-1/3:0" number="50"/>
+
+    <flow id="N1" begin="0" end="600" from="edge0:4/0:3" number="50"/>
+    <flow id="N2" begin="0" end="600" from="edge1:4/1:3" number="50"/>
+    <flow id="N3" begin="0" end="600" from="edge2:4/2:3" number="50"/>
+    <flow id="N4" begin="0" end="600" from="edge3:4/3:3" number="50"/>
+
+    <flow id="E12" begin="600" end="900" from="edge-1:0/0:0" number="95"/>
+    <flow id="E22" begin="600" end="900" from="edge-1:1/0:1" number="95"/>
+    <flow id="E32" begin="600" end="900" from="edge-1:2/0:2" number="95"/>
+    <flow id="E42" begin="600" end="900" from="edge-1:3/0:3" number="95"/>
+
+    <flow id="W12" begin="600" end="900" from="edge4:0/3:0" number="95"/>
+    <flow id="W22" begin="600" end="900" from="edge4:1/3:1" number="95"/>
+    <flow id="W32" begin="600" end="900" from="edge4:2/3:2" number="95"/>
+    <flow id="W42" begin="600" end="900" from="edge4:3/3:3" number="95"/>
+
+    <flow id="S12" begin="600" end="900" from="edge0:-1/0:0" number="55"/>
+    <flow id="S22" begin="600" end="900" from="edge1:-1/1:0" number="55"/>
+    <flow id="S32" begin="600" end="900" from="edge2:-1/2:0" number="55"/>
+    <flow id="S42" begin="600" end="900" from="edge3:-1/3:0" number="55"/>
+
+    <flow id="N12" begin="600" end="900" from="edge0:4/0:3" number="55"/>
+    <flow id="N22" begin="600" end="900" from="edge1:4/1:3" number="55"/>
+    <flow id="N32" begin="600" end="900" from="edge2:4/2:3" number="55"/>
+    <flow id="N42" begin="600" end="900" from="edge3:4/3:3" number="55"/>
+
+    <flow id="E13" begin="900" end="1200" from="edge-1:0/0:0" number="90"/>
+    <flow id="E23" begin="900" end="1200" from="edge-1:1/0:1" number="90"/>
+    <flow id="E33" begin="900" end="1200" from="edge-1:2/0:2" number="90"/>
+    <flow id="E43" begin="900" end="1200" from="edge-1:3/0:3" number="90"/>
+
+    <flow id="W13" begin="900" end="1200" from="edge4:0/3:0" number="90"/>
+    <flow id="W23" begin="900" end="1200" from="edge4:1/3:1" number="90"/>
+    <flow id="W33" begin="900" end="1200" from="edge4:2/3:2" number="90"/>
+    <flow id="W43" begin="900" end="1200" from="edge4:3/3:3" number="90"/>
+
+    <flow id="S13" begin="900" end="1200" from="edge0:-1/0:0" number="60"/>
+    <flow id="S23" begin="900" end="1200" from="edge1:-1/1:0" number="60"/>
+    <flow id="S33" begin="900" end="1200" from="edge2:-1/2:0" number="60"/>
+    <flow id="S43" begin="900" end="1200" from="edge3:-1/3:0" number="60"/>
+
+    <flow id="N13" begin="900" end="1200" from="edge0:4/0:3" number="60"/>
+    <flow id="N23" begin="900" end="1200" from="edge1:4/1:3" number="60"/>
+    <flow id="N33" begin="900" end="1200" from="edge2:4/2:3" number="60"/>
+    <flow id="N43" begin="900" end="1200" from="edge3:4/3:3" number="60"/>
+
+    <flow id="E14" begin="1200" end="1500" from="edge-1:0/0:0" number="85"/>
+    <flow id="E24" begin="1200" end="1500" from="edge-1:1/0:1" number="85"/>
+    <flow id="E34" begin="1200" end="1500" from="edge-1:2/0:2" number="85"/>
+    <flow id="E44" begin="1200" end="1500" from="edge-1:3/0:3" number="85"/>
+
+    <flow id="W14" begin="1200" end="1500" from="edge4:0/3:0" number="85"/>
+    <flow id="W24" begin="1200" end="1500" from="edge4:1/3:1" number="85"/>
+    <flow id="W34" begin="1200" end="1500" from="edge4:2/3:2" number="85"/>
+    <flow id="W44" begin="1200" end="1500" from="edge4:3/3:3" number="85"/>
+
+    <flow id="S14" begin="1200" end="1500" from="edge0:-1/0:0" number="65"/>
+    <flow id="S24" begin="1200" end="1500" from="edge1:-1/1:0" number="65"/>
+    <flow id="S34" begin="1200" end="1500" from="edge2:-1/2:0" number="65"/>
+    <flow id="S44" begin="1200" end="1500" from="edge3:-1/3:0" number="65"/>
+
+    <flow id="N14" begin="1200" end="1500" from="edge0:4/0:3" number="65"/>
+    <flow id="N24" begin="1200" end="1500" from="edge1:4/1:3" number="65"/>
+    <flow id="N34" begin="1200" end="1500" from="edge2:4/2:3" number="65"/>
+    <flow id="N44" begin="1200" end="1500" from="edge3:4/3:3" number="65"/>
+
+    <flow id="E15" begin="1500" end="1800" from="edge-1:0/0:0" number="80"/>
+    <flow id="E25" begin="1500" end="1800" from="edge-1:1/0:1" number="80"/>
+    <flow id="E35" begin="1500" end="1800" from="edge-1:2/0:2" number="80"/>
+    <flow id="E45" begin="1500" end="1800" from="edge-1:3/0:3" number="80"/>
+
+    <flow id="W15" begin="1500" end="1800" from="edge4:0/3:0" number="80"/>
+    <flow id="W25" begin="1500" end="1800" from="edge4:1/3:1" number="80"/>
+    <flow id="W35" begin="1500" end="1800" from="edge4:2/3:2" number="80"/>
+    <flow id="W45" begin="1500" end="1800" from="edge4:3/3:3" number="80"/>
+
+    <flow id="S15" begin="1500" end="1800" from="edge0:-1/0:0" number="70"/>
+    <flow id="S25" begin="1500" end="1800" from="edge1:-1/1:0" number="70"/>
+    <flow id="S35" begin="1500" end="1800" from="edge2:-1/2:0" number="70"/>
+    <flow id="S45" begin="1500" end="1800" from="edge3:-1/3:0" number="70"/>
+
+    <flow id="N15" begin="1500" end="1800" from="edge0:4/0:3" number="70"/>
+    <flow id="N25" begin="1500" end="1800" from="edge1:4/1:3" number="70"/>
+    <flow id="N35" begin="1500" end="1800" from="edge2:4/2:3" number="70"/>
+    <flow id="N45" begin="1500" end="1800" from="edge3:4/3:3" number="70"/>
+
+    <flow id="E16" begin="1800" end="2100" from="edge-1:0/0:0" number="75"/>
+    <flow id="E26" begin="1800" end="2100" from="edge-1:1/0:1" number="75"/>
+    <flow id="E36" begin="1800" end="2100" from="edge-1:2/0:2" number="75"/>
+    <flow id="E46" begin="1800" end="2100" from="edge-1:3/0:3" number="75"/>
+
+    <flow id="W16" begin="1800" end="2100" from="edge4:0/3:0" number="75"/>
+    <flow id="W26" begin="1800" end="2100" from="edge4:1/3:1" number="75"/>
+    <flow id="W36" begin="1800" end="2100" from="edge4:2/3:2" number="75"/>
+    <flow id="W46" begin="1800" end="2100" from="edge4:3/3:3" number="75"/>
+
+    <flow id="S16" begin="1800" end="2100" from="edge0:-1/0:0" number="75"/>
+    <flow id="S26" begin="1800" end="2100" from="edge1:-1/1:0" number="75"/>
+    <flow id="S36" begin="1800" end="2100" from="edge2:-1/2:0" number="75"/>
+    <flow id="S46" begin="1800" end="2100" from="edge3:-1/3:0" number="75"/>
+
+    <flow id="N16" begin="1800" end="2100" from="edge0:4/0:3" number="75"/>
+    <flow id="N26" begin="1800" end="2100" from="edge1:4/1:3" number="75"/>
+    <flow id="N36" begin="1800" end="2100" from="edge2:4/2:3" number="75"/>
+    <flow id="N46" begin="1800" end="2100" from="edge3:4/3:3" number="75"/>
+
+    <flow id="E17" begin="2100" end="2400" from="edge-1:0/0:0" number="70"/>
+    <flow id="E27" begin="2100" end="2400" from="edge-1:1/0:1" number="70"/>
+    <flow id="E37" begin="2100" end="2400" from="edge-1:2/0:2" number="70"/>
+    <flow id="E47" begin="2100" end="2400" from="edge-1:3/0:3" number="70"/>
+
+    <flow id="W17" begin="2100" end="2400" from="edge4:0/3:0" number="70"/>
+    <flow id="W27" begin="2100" end="2400" from="edge4:1/3:1" number="70"/>
+    <flow id="W37" begin="2100" end="2400" from="edge4:2/3:2" number="70"/>
+    <flow id="W47" begin="2100" end="2400" from="edge4:3/3:3" number="70"/>
+
+    <flow id="S17" begin="2100" end="2400" from="edge0:-1/0:0" number="80"/>
+    <flow id="S27" begin="2100" end="2400" from="edge1:-1/1:0" number="80"/>
+    <flow id="S37" begin="2100" end="2400" from="edge2:-1/2:0" number="80"/>
+    <flow id="S47" begin="2100" end="2400" from="edge3:-1/3:0" number="80"/>
+
+    <flow id="N17" begin="2100" end="2400" from="edge0:4/0:3" number="80"/>
+    <flow id="N27" begin="2100" end="2400" from="edge1:4/1:3" number="80"/>
+    <flow id="N37" begin="2100" end="2400" from="edge2:4/2:3" number="80"/>
+    <flow id="N47" begin="2100" end="2400" from="edge3:4/3:3" number="80"/>
+
+    <flow id="E18" begin="2400" end="2700" from="edge-1:0/0:0" number="65"/>
+    <flow id="E28" begin="2400" end="2700" from="edge-1:1/0:1" number="65"/>
+    <flow id="E38" begin="2400" end="2700" from="edge-1:2/0:2" number="65"/>
+    <flow id="E48" begin="2400" end="2700" from="edge-1:3/0:3" number="65"/>
+
+    <flow id="W18" begin="2400" end="2700" from="edge4:0/3:0" number="65"/>
+    <flow id="W28" begin="2400" end="2700" from="edge4:1/3:1" number="65"/>
+    <flow id="W38" begin="2400" end="2700" from="edge4:2/3:2" number="65"/>
+    <flow id="W48" begin="2400" end="2700" from="edge4:3/3:3" number="65"/>
+
+    <flow id="S18" begin="2400" end="2700" from="edge0:-1/0:0" number="85"/>
+    <flow id="S28" begin="2400" end="2700" from="edge1:-1/1:0" number="85"/>
+    <flow id="S38" begin="2400" end="2700" from="edge2:-1/2:0" number="85"/>
+    <flow id="S48" begin="2400" end="2700" from="edge3:-1/3:0" number="85"/>
+
+    <flow id="N18" begin="2400" end="2700" from="edge0:4/0:3" number="85"/>
+    <flow id="N28" begin="2400" end="2700" from="edge1:4/1:3" number="85"/>
+    <flow id="N38" begin="2400" end="2700" from="edge2:4/2:3" number="85"/>
+    <flow id="N48" begin="2400" end="2700" from="edge3:4/3:3" number="85"/>
+
+	<flow id="E19" begin="2700" end="3000" from="edge-1:0/0:0" number="60"/>
+    <flow id="E29" begin="2700" end="3000" from="edge-1:1/0:1" number="60"/>
+    <flow id="E39" begin="2700" end="3000" from="edge-1:2/0:2" number="60"/>
+    <flow id="E49" begin="2700" end="3000" from="edge-1:3/0:3" number="60"/>
+
+    <flow id="W19" begin="2700" end="3000" from="edge4:0/3:0" number="60"/>
+    <flow id="W29" begin="2700" end="3000" from="edge4:1/3:1" number="60"/>
+    <flow id="W39" begin="2700" end="3000" from="edge4:2/3:2" number="60"/>
+    <flow id="W49" begin="2700" end="3000" from="edge4:3/3:3" number="60"/>
+
+    <flow id="S19" begin="2700" end="3000" from="edge0:-1/0:0" number="90"/>
+    <flow id="S29" begin="2700" end="3000" from="edge1:-1/1:0" number="90"/>
+    <flow id="S39" begin="2700" end="3000" from="edge2:-1/2:0" number="90"/>
+    <flow id="S49" begin="2700" end="3000" from="edge3:-1/3:0" number="90"/>
+
+    <flow id="N19" begin="2700" end="3000" from="edge0:4/0:3" number="90"/>
+    <flow id="N29" begin="2700" end="3000" from="edge1:4/1:3" number="90"/>
+    <flow id="N39" begin="2700" end="3000" from="edge2:4/2:3" number="90"/>
+    <flow id="N49" begin="2700" end="3000" from="edge3:4/3:3" number="90"/>
+
+    <flow id="E10" begin="3000" end="3300" from="edge-1:0/0:0" number="55"/>
+    <flow id="E20" begin="3000" end="3300" from="edge-1:1/0:1" number="55"/>
+    <flow id="E30" begin="3000" end="3300" from="edge-1:2/0:2" number="55"/>
+    <flow id="E40" begin="3000" end="3300" from="edge-1:3/0:3" number="55"/>
+
+    <flow id="W10" begin="3000" end="3300" from="edge4:0/3:0" number="55"/>
+    <flow id="W20" begin="3000" end="3300" from="edge4:1/3:1" number="55"/>
+    <flow id="W30" begin="3000" end="3300" from="edge4:2/3:2" number="55"/>
+    <flow id="W40" begin="3000" end="3300" from="edge4:3/3:3" number="55"/>
+
+    <flow id="S10" begin="3000" end="3300" from="edge0:-1/0:0" number="95"/>
+    <flow id="S20" begin="3000" end="3300" from="edge1:-1/1:0" number="95"/>
+    <flow id="S30" begin="3000" end="3300" from="edge2:-1/2:0" number="95"/>
+    <flow id="S40" begin="3000" end="3300" from="edge3:-1/3:0" number="95"/>
+
+    <flow id="N10" begin="3000" end="3300" from="edge0:4/0:3" number="95"/>
+    <flow id="N20" begin="3000" end="3300" from="edge1:4/1:3" number="95"/>
+    <flow id="N30" begin="3000" end="3300" from="edge2:4/2:3" number="95"/>
+    <flow id="N40" begin="3000" end="3300" from="edge3:4/3:3" number="95"/>
+
+	<flow id="E110" begin="3300" end="3600" from="edge-1:0/0:0" number="50"/>
+    <flow id="E210" begin="3300" end="3600" from="edge-1:1/0:1" number="50"/>
+    <flow id="E310" begin="3300" end="3600" from="edge-1:2/0:2" number="50"/>
+    <flow id="E410" begin="3300" end="3600" from="edge-1:3/0:3" number="50"/>
+
+    <flow id="W110" begin="3300" end="3600" from="edge4:0/3:0" number="50"/>
+    <flow id="W210" begin="3300" end="3600" from="edge4:1/3:1" number="50"/>
+    <flow id="W310" begin="3300" end="3600" from="edge4:2/3:2" number="50"/>
+    <flow id="W410" begin="3300" end="3600" from="edge4:3/3:3" number="50"/>
+
+    <flow id="S110" begin="3300" end="3600" from="edge0:-1/0:0" number="100"/>
+    <flow id="S210" begin="3300" end="3600" from="edge1:-1/1:0" number="100"/>
+    <flow id="S310" begin="3300" end="3600" from="edge2:-1/2:0" number="100"/>
+    <flow id="S410" begin="3300" end="3600" from="edge3:-1/3:0" number="100"/>
+
+    <flow id="N110" begin="3300" end="3600" from="edge0:4/0:3" number="100"/>
+    <flow id="N210" begin="3300" end="3600" from="edge1:4/1:3" number="100"/>
+    <flow id="N310" begin="3300" end="3600" from="edge2:4/2:3" number="100"/>
+    <flow id="N410" begin="3300" end="3600" from="edge3:4/3:3" number="100"/>
+
+</vehicles>

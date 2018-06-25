@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <tlLogic id="node0:0" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="20" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="5" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="30" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node0:1" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="19" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="29" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node0:2" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="18" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="29" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node0:3" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="21" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="5" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="29" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="8" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node1:0" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="19" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="26" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="5" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node1:1" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="18" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="26" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="5" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node1:2" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="16" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="24" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node1:3" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="18" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="24" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node2:0" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="20" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="5" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="25" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="7" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node2:1" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="18" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="25" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node2:2" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="17" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="25" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node2:3" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="19" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="26" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="5" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node3:0" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="20" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="29" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node3:1" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="18" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="28" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node3:2" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="20" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="4" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="29" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="7" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+    <tlLogic id="node3:3" type="actuated" programID="a" offset="0">
+
+    	<param key="max-gap" value="3.0"/>
+   		<param key="detector-gap" value="2.0"/>
+   		<param key="show-detectors" value="false"/>
+   		<param key="file" value="NULL"/>
+   		<param key="freq" value="300"/>
+        
+        <phase duration="22" minDur="5" maxDur="45" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyygrrrryyygrrrr"/>
+        <phase duration="6" minDur="5" maxDur="45" state="rrrGrrrrrrrGrrrr"/>
+        <phase duration="3" state="rrryrrrrrrryrrrr"/>
+        <phase duration="30" minDur="5" maxDur="45" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyygrrrryyyg"/>
+        <phase duration="8" minDur="5" maxDur="45" state="rrrrrrrGrrrrrrrG"/>
+        <phase duration="3" state="rrrrrrryrrrrrrry"/>
+    </tlLogic>
+</additional>

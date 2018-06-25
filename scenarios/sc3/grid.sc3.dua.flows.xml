@@ -1,0 +1,6 @@
+<vehicles>
+    <flow id="N1-S2" begin="900" end="2700" from="edge0:4/0:3" to="edge1:0/1:-1" via="edge0:2/1:2" number="600"/>
+    <flow id="N4-S3" begin="900" end="2700" from="edge3:4/3:3" to="edge2:0/2:-1" via="edge3:2/2:2" number="600"/>
+    <flow id="N1-S3" begin="900" end="2700" from="edge0:4/0:3" to="edge2:0/2:-1" via="edge0:2/1:2 edge1:2/2:2" number="300"/>
+    <flow id="N4-S2" begin="900" end="2700" from="edge3:4/3:3" to="edge1:0/1:-1" via="edge3:2/2:2 edge2:2/1:2" number="300"/>
+</vehicles>

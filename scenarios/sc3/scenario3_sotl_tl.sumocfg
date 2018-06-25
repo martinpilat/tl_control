@@ -1,0 +1,14 @@
+<configuration>
+    <input>
+        <net-file value="grid.net.xml"/>
+        <route-files value="grid.scenario3.jtr.rou.xml grid.scenario3.dua.rou.xml"/>
+        <additional-files value="grid.add.xml grid.scenario3.sotl_tl.add.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+    <processing>
+        <time-to-teleport value="0"/>
+    </processing>
+</configuration>

@@ -1,0 +1,16 @@
+<configuration>
+    <input>
+        <net-file value="grid.net.xml"/>
+        <route-files value="grid.sc2.jtr.flows.xml"/>
+    </input>
+    <output>
+        <output-file value="grid.scenario2.rou.xml"/>
+    </output>
+    <processing>
+        <sink-edges value="edge0:0/-1:0,edge0:1/-1:1,edge0:2/-1:2,edge0:3/-1:3,edge3:0/4:0,edge3:1/4:1,edge3:2/4:2,edge3:3/4:3,edge0:3/0:4,edge1:3/1:4,edge2:3/2:4,edge3:3/3:4,edge0:0/0:-1,edge1:0/1:-1,edge2:0/2:-1,edge3:0/3:-1"/>
+        <turn-defaults value="10,80,10"/>
+    </processing>
+    <time>
+        <end value="3600"/>
+    </time>
+</configuration>

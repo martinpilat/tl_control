@@ -1,0 +1,9 @@
+<configuration>
+    <input>
+        <net-file value="grid.net.xml"/>
+        <route-files value="grid.sc3.dua.flows.xml"/>
+    </input>
+    <output>
+        <output-file value="grid.scenario3.dua.rou.xml"/>
+    </output>
+</configuration>

@@ -1,0 +1,9 @@
+{
+  "pop_size": 16,
+  "sigma": 0.1,
+  "cpus": 16,
+  "max_gen": 100,
+  "scenario": "scenarios/sc3/scenario3_ea_tl.sumocfg",
+
+  "log_prefix": "sc3_ea"
+}
