@@ -4,7 +4,7 @@ north<->south direction. However, after some time, additional traffic flows are
 added. Specifically, the baseline traffic is formed by 1,200 cars coming each 
 hour through each road on E or W, and 600 cars coming on each road on N or S.
 After 15 minutes, four new flows start going from N to S. Two start at the
-western north road going to the second (600 cars per hours) and third (300 cars
+western north road going to the second (1,200 cars per hour) and third (600 cars
 per hour) road from the west on the south. The other two flows are symmetrical
 starting at the eastern north road and going to the second and third road at
 the south with the same intensities. These flows end after 30 minutes.
